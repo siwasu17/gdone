@@ -1,0 +1,24 @@
+{
+  "name": "gdone",
+  "version": "1.0.0",
+  "description": "Notify google home of command complete.",
+  "bin": {
+    "gdone": "gdone.js"
+  },
+  "dependencies": {
+    "google-home-notifier": "^1.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siwasu17/gdone.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/siwasu17/gdone/issues"
+  },
+  "homepage": "https://github.com/siwasu17/gdone#readme"
+}
