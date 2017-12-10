@@ -14,5 +14,5 @@ $ <any command> ; gdone
 ```
 Or
 ```
-$ <any command> ; gdone -c "command name alias"
+$ <any command> ; gdone -c "<any command>"
 ```
