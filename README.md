@@ -1,18 +1,18 @@
-# gdone
+# gone
 Notify google home of command complete.
 
 ## Install
 ```
-$ git clone https://github.com/siwasu17/gdone.git
-$ cd gdone
+$ git clone https://github.com/siwasu17/gone.git
+$ cd gone
 $ npm link
 ```
 
 ## Usage
 ```
-$ <any command> ; gdone
+$ <any command> ; gone
 ```
 Or
 ```
-$ <any command> ; gdone -c "<any command>"
+$ <any command> ; gone -c "<any command>"
 ```

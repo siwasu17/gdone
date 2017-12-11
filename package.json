@@ -1,9 +1,9 @@
 {
-  "name": "gdone",
+  "name": "gone",
   "version": "1.0.0",
   "description": "Notify google home of command complete.",
   "bin": {
-    "gdone": "gdone.js"
+    "gone": "gone.js"
   },
   "dependencies": {
     "argv": "0.0.2",
@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/siwasu17/gdone.git"
+    "url": "git+https://github.com/siwasu17/gone.git"
   },
   "author": "siwasu17",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/siwasu17/gdone/issues"
+    "url": "https://github.com/siwasu17/gone/issues"
   },
-  "homepage": "https://github.com/siwasu17/gdone#readme"
+  "homepage": "https://github.com/siwasu17/gone#readme"
 }
